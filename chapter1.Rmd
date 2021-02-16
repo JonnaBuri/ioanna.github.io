@@ -1,0 +1,11 @@
+
+# Week 1 - My thoughts about the course
+I'm very eager to see how this course turns out, mostly because:
+
+* I'm a doctoral student, specializing on theoretical Machine Learning
+* but I usually work with python - not so fluent in R
+* and this is a great opportunity to focus on **open** science
+* just testing the list items now
+ 
+*My github repository link can be found [here](https://github.com/JonnaBuri/IODS-project/)*
+
