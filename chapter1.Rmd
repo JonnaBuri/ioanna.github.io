@@ -1,5 +1,8 @@
 
 # Week 1 - My thoughts about the course
+
+HENLO FRENS!
+
 I'm very eager to see how this course turns out, mostly because:
 
 * I'm a doctoral student, specializing on theoretical Machine Learning
